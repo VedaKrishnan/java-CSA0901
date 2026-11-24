@@ -1,9 +1,9 @@
 # CO2 – Programming in Java Assignment 2
 
-**Student:** N Thirrumalaa  
-**Register Number:** 192311444  
+**Student:** Veda Krishnan V A
+**Register Number:** 192324293
 **Institution:** SIMATS  
-**Department:** BE CSE – Core  
+**Department:** AI&DS – Core  
 **Year:** IV  
 **Environment:** Windows 11, VS Code, Java 25.0.1 LTS
 
