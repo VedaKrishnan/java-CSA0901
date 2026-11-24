@@ -1,7 +1,7 @@
 # Programming in Java – Assignment 5 (CO5)
-**Student:** N Thirrumalaa  
-**Register Number:** 192311444  
-**College:** SIMATS | **Department:** BE CSE – Core | **Year:** 4th Year  
+**Student:** Veda Krishnan V A
+**Register Number:** 192324293
+**College:** SIMATS | **Department:**AI&DS– Core | **Year:** 4th Year  
 **JDK:** Java 25.0.1 | **IDE:** VS Code
 
 **Assignment:** Data Persistence Engineering – Files and Databases  
