@@ -1,3 +1,0 @@
-SAMPLE / ILLUSTRATIVE FUNCTIONAL OUTPUT
-[Eagles(9,6), Bisons(9,4), Panthers(9,4), Cobras(6,1)]
-Bisons precedes Panthers alphabetically after points and goal difference tie.
