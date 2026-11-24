@@ -1,7 +1,7 @@
 # Java Programming Assignment 4 – CO4
-**Student:** N Thirrumalaa | **Register:** 192311444 | **SIMATS**  
-**Department:** BE CSE – Core | **Year:** 4th Year | **JDK:** Java 25.0.1  
-**Repository name:** `CSA09-192311444-Assignment4`
+**Student:** Veda Krishnan V A| **Register:** 192324293 | **SIMATS**  
+**Department:** AI&DS – Core | **Year:** 4th Year | **JDK:** Java 25.0.1  
+**Repository name:** 
 
 This project follows the supplied CO4 assignment: AWT/Swing, event delegation, listeners, adapters, inner/anonymous classes, layout managers, menus/dialogs and Swing–JDBC integration. Task 6 uses **MySQL + JDBC**, not SQLite.
 
